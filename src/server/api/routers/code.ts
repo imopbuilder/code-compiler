@@ -95,17 +95,3 @@ export const codeRouter = createTRPCRouter({
 			}
 		}),
 });
-
-// {
-// 	"stdout": "hello, Judge0\n",
-// 	"time": "0.001",
-// 	"memory": 376,
-// 	"stderr": null,
-// 	"token": "8531f293-1585-4d36-a34c-73726792e6c9",
-// 	"compile_output": null,
-// 	"message": null,
-// 	"status": {
-// 	  "id": 3,
-// 	  "description": "Accepted"
-// 	}
-// }
